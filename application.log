@@ -1,0 +1,134 @@
+2022-04-15 16:19:29,193  INFO [TestNG-test=ChromTest-3] RealProject1:39 - Chrome browser is opend
+2022-04-15 16:19:29,214  INFO [TestNG-test=ChromTest-1] RealProject1:39 - Chrome browser is opend
+2022-04-15 16:19:29,275  INFO [TestNG-test=ChromTest-2] RealProject1:39 - Chrome browser is opend
+2022-04-15 16:19:32,862  INFO [TestNG-test=ChromTest-2] RealProject1:50 - URL is opend
+2022-04-15 16:19:33,291  INFO [TestNG-test=ChromTest-1] RealProject1:50 - URL is opend
+2022-04-15 16:19:34,233  INFO [TestNG-test=ChromTest-3] RealProject1:50 - URL is opend
+2022-04-15 16:19:34,445  INFO [TestNG-test=ChromTest-1] RealProject1:59 - Enter username
+2022-04-15 16:19:34,455  INFO [TestNG-test=ChromTest-2] RealProject1:59 - Enter username
+2022-04-15 16:19:34,921  INFO [TestNG-test=ChromTest-3] RealProject1:59 - Enter username
+2022-04-15 16:19:35,111  INFO [TestNG-test=ChromTest-3] RealProject1:61 - Enter password
+2022-04-15 16:19:35,123  INFO [TestNG-test=ChromTest-2] RealProject1:61 - Enter password
+2022-04-15 16:19:35,123  INFO [TestNG-test=ChromTest-1] RealProject1:61 - Enter password
+2022-04-15 16:19:36,179  INFO [TestNG-test=ChromTest-2] RealProject1:63 - click on login button
+2022-04-15 16:19:36,179  INFO [TestNG-test=ChromTest-3] RealProject1:63 - click on login button
+2022-04-15 16:19:36,295  INFO [TestNG-test=ChromTest-1] RealProject1:63 - click on login button
+2022-04-15 16:19:36,357  INFO [TestNG-test=ChromTest-3] RealProject1:19 - validate soft assertion
+2022-04-15 16:19:36,359  INFO [TestNG-test=ChromTest-3] RealProject1:22 - validate hard assertion
+2022-04-15 16:19:36,361  INFO [TestNG-test=ChromTest-1] RealProject1:16 - validate assertion
+2022-04-15 16:19:36,636  INFO [TestNG-test=ChromTest-3] RealProject1:71 - click on dashboard
+2022-04-15 16:19:36,849  INFO [TestNG-test=ChromTest-1] RealProject1:71 - click on dashboard
+2022-04-15 16:19:37,079  INFO [TestNG-test=ChromTest-3] RealProject1:73 - click on logout button
+2022-04-15 16:19:37,646  INFO [TestNG-test=ChromTest-1] RealProject1:73 - click on logout button
+2022-04-15 16:19:37,701  INFO [TestNG-test=ChromTest-2] RealProject1:71 - click on dashboard
+2022-04-15 16:19:38,040  INFO [TestNG-test=ChromTest-2] RealProject1:73 - click on logout button
+2022-04-15 16:19:39,105  INFO [TestNG-test=ChromTest-1] RealProject1:80 - Browser will close
+2022-04-15 16:19:39,123  INFO [TestNG-test=ChromTest-3] RealProject1:80 - Browser will close
+2022-04-15 16:19:39,130  INFO [TestNG-test=ChromTest-2] RealProject1:80 - Browser will close
+2022-04-15 16:19:50,188  INFO [TestNG-test=FirefoxTest-2] RealProject1:46 - firefox browser is opend
+2022-04-15 16:19:50,605  INFO [TestNG-test=FirefoxTest-3] RealProject1:46 - firefox browser is opend
+2022-04-15 16:19:52,645  INFO [TestNG-test=FirefoxTest-1] RealProject1:46 - firefox browser is opend
+2022-04-15 16:19:54,289  INFO [TestNG-test=FirefoxTest-3] RealProject1:50 - URL is opend
+2022-04-15 16:19:54,562  INFO [TestNG-test=FirefoxTest-2] RealProject1:50 - URL is opend
+2022-04-15 16:19:54,652  INFO [TestNG-test=FirefoxTest-3] RealProject1:59 - Enter username
+2022-04-15 16:19:54,715  INFO [TestNG-test=FirefoxTest-3] RealProject1:61 - Enter password
+2022-04-15 16:19:54,799  INFO [TestNG-test=FirefoxTest-2] RealProject1:59 - Enter username
+2022-04-15 16:19:54,935  INFO [TestNG-test=FirefoxTest-2] RealProject1:61 - Enter password
+2022-04-15 16:19:55,470  INFO [TestNG-test=FirefoxTest-3] RealProject1:63 - click on login button
+2022-04-15 16:19:55,480  INFO [TestNG-test=FirefoxTest-3] RealProject1:19 - validate soft assertion
+2022-04-15 16:19:55,481  INFO [TestNG-test=FirefoxTest-3] RealProject1:22 - validate hard assertion
+2022-04-15 16:19:55,686  INFO [TestNG-test=FirefoxTest-2] RealProject1:63 - click on login button
+2022-04-15 16:19:56,273  INFO [TestNG-test=FirefoxTest-3] RealProject1:71 - click on dashboard
+2022-04-15 16:19:56,785  INFO [TestNG-test=FirefoxTest-2] RealProject1:71 - click on dashboard
+2022-04-15 16:19:59,832  INFO [TestNG-test=FirefoxTest-1] RealProject1:50 - URL is opend
+2022-04-15 16:20:00,014  INFO [TestNG-test=FirefoxTest-1] RealProject1:59 - Enter username
+2022-04-15 16:20:00,159  INFO [TestNG-test=FirefoxTest-1] RealProject1:61 - Enter password
+2022-04-15 16:20:00,922  INFO [TestNG-test=FirefoxTest-1] RealProject1:63 - click on login button
+2022-04-15 16:20:00,930  INFO [TestNG-test=FirefoxTest-1] RealProject1:16 - validate assertion
+2022-04-15 16:20:01,694  INFO [TestNG-test=FirefoxTest-1] RealProject1:71 - click on dashboard
+2022-04-15 22:39:43,078  INFO [TestNG-test=ChromTest-1] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:39:43,344  INFO [TestNG-test=ChromTest-3] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:39:43,344  INFO [TestNG-test=ChromTest-2] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:40:03,850  INFO [TestNG-test=ChromTest-2] RealProject1:50 - URL is opend
+2022-04-15 22:40:05,128  INFO [TestNG-test=ChromTest-1] RealProject1:50 - URL is opend
+2022-04-15 22:40:06,164  INFO [TestNG-test=ChromTest-3] RealProject1:50 - URL is opend
+2022-04-15 22:40:23,547  INFO [TestNG-test=FirefoxTest-3] RealProject1:46 - firefox browser is opend
+2022-04-15 22:40:23,661  INFO [TestNG-test=FirefoxTest-2] RealProject1:46 - firefox browser is opend
+2022-04-15 22:40:23,548  INFO [TestNG-test=FirefoxTest-1] RealProject1:46 - firefox browser is opend
+2022-04-15 22:40:47,048  INFO [TestNG-test=FirefoxTest-3] RealProject1:50 - URL is opend
+2022-04-15 22:40:48,708  INFO [TestNG-test=FirefoxTest-1] RealProject1:50 - URL is opend
+2022-04-15 22:40:49,463  INFO [TestNG-test=FirefoxTest-2] RealProject1:50 - URL is opend
+2022-04-15 22:42:12,973  INFO [TestNG-test=ChromTest-3] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:42:12,974  INFO [TestNG-test=ChromTest-2] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:42:12,973  INFO [TestNG-test=ChromTest-1] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:42:25,493  INFO [TestNG-test=ChromTest-2] RealProject1:50 - URL is opend
+2022-04-15 22:42:25,838  INFO [TestNG-test=ChromTest-3] RealProject1:50 - URL is opend
+2022-04-15 22:42:26,541  INFO [TestNG-test=ChromTest-1] RealProject1:50 - URL is opend
+2022-04-15 22:43:03,093  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:43:07,686  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:43:09,366  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:43:15,183  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:43:17,516  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:44:33,348  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:44:37,065  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:44:38,955  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:44:45,903  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:44:47,446  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:46:42,686  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:46:47,137  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:46:49,119  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:46:56,883  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:48:06,896  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:48:12,990  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:48:13,424  INFO [main] RealProject1:60 - Enter username
+2022-04-15 22:48:13,520  INFO [main] RealProject1:62 - Enter password
+2022-04-15 22:48:13,913  INFO [main] RealProject1:65 - click on login button
+2022-04-15 22:48:13,927  INFO [main] RealProject1:16 - validate assertion
+2022-04-15 22:48:13,975  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 22:48:14,166  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 22:48:15,713  INFO [main] RealProject1:82 - Browser will close
+2022-04-15 22:48:17,303  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:48:23,368  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:48:23,622  INFO [main] RealProject1:60 - Enter username
+2022-04-15 22:48:23,701  INFO [main] RealProject1:62 - Enter password
+2022-04-15 22:48:24,011  INFO [main] RealProject1:65 - click on login button
+2022-04-15 22:48:24,182  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 22:48:24,289  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 22:48:24,695  INFO [main] RealProject1:82 - Browser will close
+2022-04-15 22:48:26,271  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 22:48:31,408  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 22:48:31,673  INFO [main] RealProject1:60 - Enter username
+2022-04-15 22:48:31,745  INFO [main] RealProject1:62 - Enter password
+2022-04-15 22:48:32,095  INFO [main] RealProject1:65 - click on login button
+2022-04-15 22:48:32,105  INFO [main] RealProject1:19 - validate soft assertion
+2022-04-15 22:48:32,105  INFO [main] RealProject1:22 - validate hard assertion
+2022-04-15 22:48:32,161  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 22:48:32,341  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 22:48:32,936  INFO [main] RealProject1:82 - Browser will close
+2022-04-15 23:28:09,870  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 23:28:12,603  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 23:28:15,331  INFO [main] RealProject1:60 - Enter username
+2022-04-15 23:28:15,429  INFO [main] RealProject1:62 - Enter password
+2022-04-15 23:28:15,772  INFO [main] RealProject1:65 - click on login button
+2022-04-15 23:28:15,785  INFO [main] RealProject1:17 - validate assertion
+2022-04-15 23:28:15,835  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 23:28:15,993  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 23:28:16,329  INFO [main] RealProject1:82 - Browser will close
+2022-04-15 23:28:17,321  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 23:28:19,871  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 23:28:20,196  INFO [main] RealProject1:60 - Enter username
+2022-04-15 23:28:20,293  INFO [main] RealProject1:62 - Enter password
+2022-04-15 23:28:20,624  INFO [main] RealProject1:65 - click on login button
+2022-04-15 23:28:20,755  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 23:28:20,911  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 23:28:21,216  INFO [main] RealProject1:82 - Browser will close
+2022-04-15 23:28:22,400  INFO [main] RealProject1:39 - Chrome browser is opend
+2022-04-15 23:28:24,756  INFO [main] RealProject1:50 - URL is opend
+2022-04-15 23:28:25,062  INFO [main] RealProject1:60 - Enter username
+2022-04-15 23:28:25,168  INFO [main] RealProject1:62 - Enter password
+2022-04-15 23:28:25,489  INFO [main] RealProject1:65 - click on login button
+2022-04-15 23:28:25,500  INFO [main] RealProject1:20 - validate soft assertion
+2022-04-15 23:28:25,500  INFO [main] RealProject1:23 - validate hard assertion
+2022-04-15 23:28:25,541  INFO [main] RealProject1:73 - click on dashboard
+2022-04-15 23:28:25,694  INFO [main] RealProject1:75 - click on logout button
+2022-04-15 23:28:25,965  INFO [main] RealProject1:82 - Browser will close
